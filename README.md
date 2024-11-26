@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm [Yuanyuan Yuan](https://yuanyuan-yuan.github.io/) (袁渊源 in Chinese)
 
-- 👨‍🎓 Ph.D. student majoring in computer science @ HKUST  
-- 🤩 Broadly interested in the intersection of security & AI & software engineering
+- 👨‍🔬 Postdoc researcher @ ETH Zurich
+- 👨‍🎓 Ph.D. @ HKUST  
+- 🤩 Focusing on AI system safety and security
 - 🧠 Keep learning new and cool things
 
 🌟 This account hosts research artifacts of my publications
