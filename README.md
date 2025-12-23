@@ -1,9 +1,4 @@
-### Hi there 👋, I'm [Yuanyuan Yuan](https://yuanyuan-yuan.github.io/) (袁渊源 in Chinese)
-
-- 👨‍🔬 Postdoc researcher @ ETH Zurich
-- 👨‍🎓 Ph.D. @ HKUST  
-- 🤩 Focusing on AI system safety and security
-- 🧠 Keep learning new and cool things
+### Hi there 👋, I'm [Yuanyuan Yuan](https://yuanyuan-yuan.github.io/) (袁渊源)
 
 🌟 This account hosts research artifacts of my publications
 
